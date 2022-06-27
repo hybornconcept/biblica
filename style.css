@@ -1,0 +1,40 @@
+div.css-1a32fsj.e19lei0e0 {
+    display: hide;
+}
+
+h1.nba-player-stats-explorer,
+div.css-zt5igj.e16nr0p32 {
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+span.css-10trblm.e16nr0p30,
+h1.css-10trblm e16nr0p30 {
+    text-align: center;
+    font-family: 'Merienda One';
+    font-size: 60px;
+
+
+}
+
+span.css-10trblm.e16nr0p30 {
+    margin-top: -15%;
+}
+
+p {
+    margin-top: 5px;
+    font: 12px 'Open Sans';
+}
+
+div.css-nlntq9.e16nr0p33>p {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Poiret One';
+}
+
+
+div.row-widget.stTextInput.css-r57lsn.edfmue0 {
+    width: 20%
+}

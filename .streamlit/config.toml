@@ -1,0 +1,16 @@
+[theme]
+# primary accent color 
+
+primaryColor = "#7A4A7E"
+
+# Background color for the main content
+
+backgroundColor = "#26273D"
+
+# secondary ackground color 
+
+secondaryBackgroundColor = "#404050"
+
+# colorused for text
+
+textColor = "#FFFFFF"
